@@ -1,0 +1,112 @@
+.navtop{
+  font-size: 13px;
+}
+.navtopleft{
+  list-style: none;
+}
+.navtopleft li{
+  float: left;
+  padding-left: 15px;
+}
+.navtopleft li a{
+  text-decoration: none;
+  color: #000;
+  opacity: .75;
+}
+.navtopright{
+  list-style: none;
+}
+.navtopright li{
+  float: right;
+  padding-right: 15px;
+}
+.navtopright li a{
+  text-decoration: none;
+  color: #000;
+  opacity: .75;
+}
+
+
+
+
+
+.googlelogo {
+  height: 283px;
+  padding-top: 89px;
+}
+.centerlogo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 92px;
+  width: 272px;
+  padding-top: 109px;
+}
+.googlesearch{
+
+}
+.googlesearchbar {
+  background: #fff;
+  display: flex;
+  position: relative;
+  border: 1px solid #dfe1e5;
+  box-shadow: none;
+  border-radius: 24px;
+  height: 44px;
+  width: 482px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.searchbuttons{
+  background-color: #f5f5f5;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  color: 665;
+  font-size: 14px;
+  line-height: 27px;
+  margin: 17px 6px;
+  padding: 0 12px;
+  display: inline-block;
+  cursor: pointer;
+}
+button{
+  
+}
+
+
+
+
+
+.navbottom{
+  background: #f2f2f2;
+  border-top: 1px solid #e4e4e4;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+}
+.navbottomleft{
+  list-style: none;
+  margin-left: -27px;
+}
+.navbottomleft li{
+float: left;
+padding: 15px;
+}
+.navbottomleft li a{
+  text-decoration: none;
+  color: #000;
+  opacity: .75;
+}
+.navbottomright{
+  list-style: none;
+}
+.navbottomright li{
+  float: right;
+  padding: 15px;
+}
+.navbottomright li a{
+text-decoration: none;
+color: #000;
+opacity: .75;
+}
